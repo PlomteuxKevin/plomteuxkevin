@@ -16,7 +16,7 @@
 
 💡 Actuellement en reconversion professionnelle dans le développement, je suis ouvert aux collaborations et aux opportunités de contribuer à des projets innovants.
 
-🎯 Mon objectif est de contribuer activement à des projets open source, d'apprendre continuellement et de partager mes connaissances avec la communauté des développeurs.
+🎯 Mon objectif est de contribuer activement à des projets d'innovation, d'apprendre continuellement et de partager mes connaissances avec la communauté des développeurs.
 
 🎲 En dehors du développement, je suis passionné par le jeu de rôle, l'impression 3D et la musique.
 
