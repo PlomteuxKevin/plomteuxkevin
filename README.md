@@ -18,15 +18,5 @@
 
 🎲 En dehors du développement, je suis passionné par le jeu de rôle, l'impression 3D et la musique.
 
-<p align="left>
-  <a href=""> 
-    <img alt="Python" src="" />
-  </a>
-  <a href="https://scikit-learn.org/stable/"> 
-    <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-  </a>
-
-
-  
-  
-</p>
+---
+<img align="left" alt="SkLearn" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
