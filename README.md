@@ -1,5 +1,6 @@
 # Kevin Plomteux
-## Développeur Python passionné par l'intelligence artificielle et le machine learning
+
+**'Développeur Python passionné par l'intelligence artificielle et le machine learning'**
 
 👨‍💻 Développeur Python spécialisé dans le domaine de l'intelligence artificielle et du machine learning. Je suis passionné par l'exploration des données et la création de modèles prédictifs.
 
