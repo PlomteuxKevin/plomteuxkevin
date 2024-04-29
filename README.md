@@ -19,4 +19,10 @@
 🎲 En dehors du développement, je suis passionné par le jeu de rôle, l'impression 3D et la musique.
 
 ---
-<img align="left" alt="SkLearn" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
+<img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
+<img align="left" alt="SkLearn" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="PyGame" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
