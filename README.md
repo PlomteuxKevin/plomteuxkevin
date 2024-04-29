@@ -1,6 +1,8 @@
 # Kevin Plomteux
 
-**`Développeur Python passionné par l'intelligence artificielle et le machine learning`**
+## Développeur Python passionné par l'intelligence artificielle et le machine learning
+
+### A propos
 
 👨‍💻 Développeur Python spécialisé dans le domaine de l'intelligence artificielle et du machine learning. Je suis passionné par l'exploration des données et la création de modèles prédictifs.
 
@@ -19,6 +21,7 @@
 🎲 En dehors du développement, je suis passionné par le jeu de rôle, l'impression 3D et la musique.
 
 ---
+### Langages et outils
 <img align="left" alt="Python" height="50px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img align="left" alt="SkLearn" height="50px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Numpy" height="50px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" />
